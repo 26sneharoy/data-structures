@@ -1,8 +1,10 @@
-#include <stdio.h>
-#include<stdlib.h>
-
-int main()
+# include<stdio.h>
+int main() // function makes it reads from the first line 
+// --> compile --> object code -->
 {
-printf("hello world");
+
+    printf("hello world");
+
 return 0;
+
 }
